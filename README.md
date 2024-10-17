@@ -1,7 +1,6 @@
 ### 👋 Hi, I’m Aditya SanthaKulluru 
-- 👀 Working on Embedded Systems, Ethernet, Buildroot, and Product Development.
+- 👀 Working on Embedded Systems, Ethernet, Buildroot, ZephyrRTOS, and Product Development.
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Device Drivers, Firmware development, and ZephyrRTOS Applications.
 - 📫 Reach me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/aditya-santha/)
 - ⚡ Fun fact: I love to travel and watch Anime.
 
