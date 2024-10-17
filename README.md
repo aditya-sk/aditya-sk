@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya SanthaKulluru 
 - 👀 Working on Embedded Systems, Ethernet, Buildroot, and Product Development.
-- 🌱 I’m currently learning Machine Learing
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Device Drivers, Firmware development, and ZephyrRTOS Applications.
 - 📫 How to reach me at aditya.santhakulluru@gmail.com
 - ⚡ Fun fact: I love to travel and watching Anime.
