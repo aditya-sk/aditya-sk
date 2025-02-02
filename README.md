@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Aditya SanthaKulluru 
+### 👋 Hi, I’m Sai Aditya SanthaKulluru 
 - 👀 Working on Embedded Systems, Ethernet, Buildroot, ZephyrRTOS, and Product Development.
 - 🌱 I’m currently learning Machine Learning
 - 📫 Reach me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/aditya-santha/)
